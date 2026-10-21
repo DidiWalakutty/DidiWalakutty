@@ -15,7 +15,7 @@ I enjoy understanding how things work under the hood, from low-level systems and
 - **[Transcendence](https://github.com/DidiWalakutty/Transcendence)** — Full-stack event platform built with React, NestJS, PostgreSQL, and Redis. Product Owner and developer in a four-person team.
 - **[Webserv](https://github.com/DidiWalakutty/Webserv)** — Custom HTTP/1.1 web server in C++, using non-blocking sockets and `epoll`.
 - **[Minishell](https://github.com/DidiWalakutty/Minishell)** — Unix shell implementation in C, covering tokenisation, parsing, environment expansion, and command execution.
-- **[CPP Modules](https://github.com/DidiWalakutty/CPP-Modules)** — C++ projects covering OOP, memory management, inheritance, polymorphism, templates, and STL.
+- **[CPP Modules](https://github.com/DidiWalakutty/CPP_modules)** — C++ projects covering OOP, memory management, inheritance, polymorphism, templates, and STL.
 
 ## 🔎 What I'm Exploring
 
